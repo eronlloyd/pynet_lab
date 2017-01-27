@@ -3,4 +3,4 @@ Eron Lloyd
 Winter 2016-2017
 
 
-Adding a comment here
+### [Week 1 exercises](https://github.com/eronlloyd/pynet_lab/tree/master/week1)
